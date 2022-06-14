@@ -54,6 +54,7 @@
 (require 'prelude-lsp)
 (require 'prelude-lua)
 (require 'prelude-ocaml)
+(require 'prelude-sml)
 (require 'prelude-python)
 (require 'prelude-racket)
 (require 'prelude-ruby)
